@@ -59,4 +59,4 @@ const provinceOfResidence = 'Utrecht';
 const fullPlaceOfResidence = placeOfResidence + ', ' + provinceOfResidence;
 console.log(fullPlaceOfResidence);
 
-// done
+// done .
