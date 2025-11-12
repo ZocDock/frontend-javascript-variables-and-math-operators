@@ -32,6 +32,10 @@ console.log(fourthOutput);
 // Declareer nog een variabele en sla daarin de samenvoeging van bovenstaande variabelen in op.     // geeft 'zoetsappig' wanneer gelogd
 // ==========================================
 
+const firstWord = 'zoet';
+const secondWord = 'sappig';
+const thirdWord = firstWord + secondWord;
+console.log(thirdWord);
 
 // ==========================================
 // 6. Declareer een variabele voor jouw voornaam en een variabele voor jouw achternaam en zet de waardes erin.
@@ -39,9 +43,20 @@ console.log(fourthOutput);
 // Zorg dat er een spatie tussen zit zonder iets aan de originele variabelen te veranderen.        // geeft bijv. 'Henk Pieters' wanneer gelogd
 // ==========================================
 
+const firstName = 'Dion';
+const secondName = 'van Oostveen';
+const fullName = firstName + ' ' + secondName;
+console.log(fullName);
 
 // ==========================================
 // 7. Declareer een variabele voor jouw woonplaats en een variabele voor provincie en zet de waardes erin.
 // Declareer vervolgens een variabele voor jouw locatie en plak jouw de woonplaats en provincie aan elkaar.
 // Zorg dat er een komma en spatie tussen zit zonder iets aan de originele variabelen te veranderen. // geeft bijv. Maastricht, Limburg wanneer gelogd
 // ==========================================
+
+const placeOfResidence = 'Amersfoort';
+const provinceOfResidence = 'Utrecht';
+const fullPlaceOfResidence = placeOfResidence + ', ' + provinceOfResidence;
+console.log(fullPlaceOfResidence);
+
+// done
