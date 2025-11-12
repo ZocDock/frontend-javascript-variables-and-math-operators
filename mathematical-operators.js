@@ -4,11 +4,15 @@ console.log('Zorg dat al jouw uitkomsten één voor één in de terminal worden 
 // 1. Declareer een variabele en sla daar de uitkomst van 4 plus 5 in op.                           // geeft 9 wanneer gelogd
 // ==========================================
 
+const firstOutput = 4 + 5;
+console.log(firstOutput);
 
 // ==========================================
 // 2. Declareer een variabele en sla daar de uitkomst van 7 maal 52 in op.                          // geeft 364 wanneer gelogd
 // ==========================================
 
+const secondOutput = 7 x 52;
+console.log(secondOutput);
 
 // ==========================================
 // 3. Declareer een variabele en sla daar de uitkomst van 4 + 3 in op, vermenigvuldigd met 7.       // geeft 49 wanneer gelogd
