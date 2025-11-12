@@ -51,3 +51,11 @@ let numberOfKids = 0;
 // 8. Gebruik jouw variabelen nu om hun waardes te loggen in de terminal. Klopt het allemaal?
 // ==========================================
 
+console.log(firstName);
+console.log(eyeColor);
+console.log(currentAge);
+console.log(currentJob);
+console.log(shoeSize);
+console.log(romanticPartner);
+console.log(numberOfKids);
+
