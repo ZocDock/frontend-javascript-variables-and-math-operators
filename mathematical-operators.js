@@ -17,14 +17,14 @@ console.log(secondOutput);
 // ==========================================
 // 3. Declareer een variabele en sla daar de uitkomst van 4 + 3 in op, vermenigvuldigd met 7.       // geeft 49 wanneer gelogd
 // ==========================================
-const thirdOutput = (4 + 3) * 7
+const thirdOutput = (4 + 3) * 7;
 console.log(thirdOutput);
 
 // ==========================================
 // 4. Declareer een variabele en sla daar de uitkomst van 36 gedeeld door 6, maal 2 in op.          // geeft 12 wanneer gelogd
 // ==========================================
 
-const fourthOutput = (36 / 6) * 2
+const fourthOutput = (36 / 6) * 2;
 console.log(fourthOutput);
 
 // ==========================================
